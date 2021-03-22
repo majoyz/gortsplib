@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/aler9/gortsplib"
-	"github.com/aler9/gortsplib/pkg/rtph264"
+	"github.com/majoyz/gortsplib"
+	"github.com/majoyz/gortsplib/pkg/rtph264"
 )
 
 // This example shows how to

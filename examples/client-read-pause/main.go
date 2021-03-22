@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/aler9/gortsplib"
+	"github.com/majoyz/gortsplib"
 )
 
 // This example shows how to

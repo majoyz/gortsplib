@@ -10,12 +10,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/headers"
-	"github.com/aler9/gortsplib/pkg/liberrors"
-	"github.com/aler9/gortsplib/pkg/multibuffer"
-	"github.com/aler9/gortsplib/pkg/ringbuffer"
-	"github.com/aler9/gortsplib/pkg/rtcpreceiver"
+	"github.com/majoyz/gortsplib/pkg/base"
+	"github.com/majoyz/gortsplib/pkg/headers"
+	"github.com/majoyz/gortsplib/pkg/liberrors"
+	"github.com/majoyz/gortsplib/pkg/multibuffer"
+	"github.com/majoyz/gortsplib/pkg/ringbuffer"
+	"github.com/majoyz/gortsplib/pkg/rtcpreceiver"
 )
 
 const (

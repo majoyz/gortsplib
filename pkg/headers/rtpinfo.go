@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/aler9/gortsplib/pkg/base"
+	"github.com/majoyz/gortsplib/pkg/base"
 )
 
 // RTPInfoEntry is an entry of an RTP-Info header.

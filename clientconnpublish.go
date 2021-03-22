@@ -7,8 +7,8 @@ import (
 
 	psdp "github.com/pion/sdp/v3"
 
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/liberrors"
+	"github.com/majoyz/gortsplib/pkg/base"
+	"github.com/majoyz/gortsplib/pkg/liberrors"
 )
 
 // Announce writes an ANNOUNCE request and reads a Response.

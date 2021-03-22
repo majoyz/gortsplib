@@ -3,7 +3,7 @@ package liberrors
 import (
 	"fmt"
 
-	"github.com/aler9/gortsplib/pkg/base"
+	"github.com/majoyz/gortsplib/pkg/base"
 )
 
 // ErrClientWrongState is returned in case of a wrong client state.

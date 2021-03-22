@@ -8,7 +8,7 @@ import (
 
 	"github.com/pion/rtcp"
 
-	"github.com/aler9/gortsplib/pkg/base"
+	"github.com/majoyz/gortsplib/pkg/base"
 )
 
 // RTCPReceiver is a utility to generate RTCP receiver reports.

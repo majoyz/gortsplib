@@ -1,7 +1,7 @@
 package gortsplib
 
 import (
-	"github.com/aler9/gortsplib/pkg/base"
+	"github.com/majoyz/gortsplib/pkg/base"
 )
 
 // StreamProtocol is the protocol of a stream.

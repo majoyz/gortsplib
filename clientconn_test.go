@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/aler9/gortsplib/pkg/auth"
-	"github.com/aler9/gortsplib/pkg/base"
+	"github.com/majoyz/gortsplib/pkg/auth"
+	"github.com/majoyz/gortsplib/pkg/base"
 )
 
 func TestClientSession(t *testing.T) {

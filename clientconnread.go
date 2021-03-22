@@ -5,9 +5,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/headers"
-	"github.com/aler9/gortsplib/pkg/liberrors"
+	"github.com/majoyz/gortsplib/pkg/base"
+	"github.com/majoyz/gortsplib/pkg/headers"
+	"github.com/majoyz/gortsplib/pkg/liberrors"
 )
 
 // Play writes a PLAY request and reads a Response.

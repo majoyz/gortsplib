@@ -3,8 +3,8 @@ package liberrors
 import (
 	"fmt"
 
-	"github.com/aler9/gortsplib/pkg/base"
-	"github.com/aler9/gortsplib/pkg/headers"
+	"github.com/majoyz/gortsplib/pkg/base"
+	"github.com/majoyz/gortsplib/pkg/headers"
 )
 
 // ErrServerTeardown is returned in case of a teardown request.

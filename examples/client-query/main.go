@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/aler9/gortsplib"
-	"github.com/aler9/gortsplib/pkg/base"
+	"github.com/majoyz/gortsplib"
+	"github.com/majoyz/gortsplib/pkg/base"
 )
 
 // This example shows how to

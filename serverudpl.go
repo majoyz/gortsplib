@@ -6,8 +6,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/aler9/gortsplib/pkg/multibuffer"
-	"github.com/aler9/gortsplib/pkg/ringbuffer"
+	"github.com/majoyz/gortsplib/pkg/multibuffer"
+	"github.com/majoyz/gortsplib/pkg/ringbuffer"
 )
 
 const (
