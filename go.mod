@@ -1,4 +1,4 @@
-module github.com/aler9/gortsplib
+module github.com/majoyz/gortsplib
 
 go 1.13
 
